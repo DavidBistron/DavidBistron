@@ -1,11 +1,17 @@
-### 👋 Hi, I’m @DavidBistron
-- 👀 I’m interested in Software Development, AI Engineering and Machine Learning!
-- 🌱 I’m currently learning or improving:
-      • Java
-      • Python
-      • JavaScript & TypeScript
-      • React
-      • HTML & CSS
+### 👋 Hi, I’m @David
+  
+- 🌲 I’m currently improving my Skills in:
+- [x] HTML & CSS
+- [x] Java
+- [x] JavaScript
+- [ ] TypeScript
+     
+- 🌱 I´m currently learning new stuff:
+- [ ] Ionic Framework
+- [x] React
+- [x] Angular
+- [ ] Vue
+
 
 <!---
 DavidBistron/DavidBistron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
