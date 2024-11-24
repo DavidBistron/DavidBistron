@@ -4,11 +4,11 @@
 - [x] HTML & CSS
 - [x] Java
 - [x] JavaScript
-- [ ] TypeScript
+- [x] TypeScript
      
 - 🌱 I´m currently learning new stuff:
-- [ ] Ionic Framework
-- [x] React
+- [x] Ionic Framework
+- [ ] React
 - [x] Angular
 - [ ] Vue
 
