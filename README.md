@@ -11,6 +11,8 @@
 - [ ] React
 - [x] Angular
 - [ ] Vue
+- [x] NLP
+- [x] Python
 
 
 <!---
