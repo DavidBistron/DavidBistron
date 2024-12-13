@@ -1,7 +1,5 @@
 ### 👋 Hi, I’m @David
-<br>
   
-🌲 That's my skillset:
 | Languages/Techniques/Frameworks | Experience | Next XP Level |
 | ----------- | ----------- | ----------- |
 | HTML & CSS  | &starf; &starf; &starf; &starf; &starf; | <br><br> 
